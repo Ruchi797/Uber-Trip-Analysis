@@ -19,7 +19,9 @@ It includes data cleaning, exploratory analysis, and visualizations to understan
 
 ## 🖼 Visual Insights
 
-Add your images in the screenshots folder and then link them like this:
+![Trend Analysis](screenshots/trend.png)
+![Histogram](screenshots/Histogram.png)
+![Seasonality](screenshots/seasonality.png)
 ---
 
 ## 📁 Files Included
