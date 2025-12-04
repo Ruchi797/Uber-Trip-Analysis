@@ -1,4 +1,11 @@
 # 🚕 Uber Trip Analysis & Demand Forecasting
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?logo=kaggle)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-brightgreen)
+![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-red)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Complete-success)
+![Large Dataset](https://img.shields.io/badge/Data-4.5M%2B%20Records-lightgrey)
 
 This project analyzes Uber trip patterns in New York City and builds data-driven insights for demand forecasting.  
 It includes data cleaning, exploratory analysis, and visualizations to understand how demand changes by time, day, and month.
