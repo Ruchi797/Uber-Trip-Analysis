@@ -10,6 +10,19 @@
 This project analyzes Uber trip patterns in New York City and builds data-driven insights for demand forecasting.  
 It includes data cleaning, exploratory analysis, and visualizations to understand how demand changes by time, day, and month.
 
+## 📌 Project Summary
+
+This project focuses on analyzing and forecasting Uber trip demand in New York City using real-world taxi trip data.  
+It aims to understand rider behavior, uncover demand patterns, and provide insights that can help with driver allocation, pricing strategies, and operational planning.
+
+The analysis covers:
+
+- Cleaning and preparing 4.5M+ trip records  
+- Exploring trip volumes across hours, days, and months  
+- Identifying demand hotspots and peak time windows  
+- Visualizing patterns through charts and heatmaps  
+- Understanding seasonality and usage trends
+
 ## 📂 Repository Structure
 
 ## 📊 Project Overview
