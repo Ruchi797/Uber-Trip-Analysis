@@ -19,9 +19,9 @@ It includes data cleaning, exploratory analysis, and visualizations to understan
 
 ## 🖼 Visual Insights
 
-![Trend Analysis](screenshots/trend.png)
-![Histogram](screenshots/Histogram.png)
-![Seasonality](screenshots/seasonality.png)
+![Trend Analysis](screenshots/trend.PNG)
+![Histogram](screenshots/Histogram.PNG)
+![Seasonality](screenshots/seasonality.PNG)
 ---
 
 ## 📁 Files Included
