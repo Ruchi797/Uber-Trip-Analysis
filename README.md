@@ -23,7 +23,19 @@ The analysis covers:
 - Visualizing patterns through charts and heatmaps  
 - Understanding seasonality and usage trends
 
-## 📂 Repository Structure
+## 🔗 Quick Access
+
+- 📘 *View Notebook:*  
+  [Uber Trip Analysis Notebook](notebooks/uber-trip-analysis.ipynb)
+
+- 📊 *View Dataset:*  
+  [Uber Trip CSV File](data/Uber-Jan-Feb-FOIL.csv)
+
+- 🖼 *View Visuals (Screenshots):*  
+  [Screenshots Folder](screenshots/)
+
+- 📁 *Project Structure:*  
+  [Repository Files](./)
 
 ## 📊 Project Overview
 
