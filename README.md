@@ -21,7 +21,7 @@ The analysis covers:
 - Exploring trip volumes across hours, days, and months  
 - Identifying demand hotspots and peak time windows  
 - Visualizing patterns through charts and heatmaps  
-- Understanding seasonality and usage trends
+- Understanding seasonality and usage trends.
 
 ## 🔗 Quick Access
 
